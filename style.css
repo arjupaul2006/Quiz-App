@@ -128,6 +128,7 @@ body {
 .score-child p {
   font-size: 1.1rem;
   font-weight: bold;
+  text-align: center;
 }
 
 .score-child div{
